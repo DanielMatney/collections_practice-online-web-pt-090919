@@ -15,4 +15,5 @@ def swap_elements(array)
     if a.index == 2 && b.index == 3
       1
     end
+  end
 end
