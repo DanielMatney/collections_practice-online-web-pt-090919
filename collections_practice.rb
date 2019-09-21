@@ -26,3 +26,7 @@ end
 def find_a(array)
   array.select {|name| name.start_with? "a"}
 end
+
+def sum_array(array)
+  
+end
